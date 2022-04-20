@@ -1,6 +1,3 @@
 ## Javascript Learning Resources
-Best Resources
 
-New resource
-
-This is also new resource
+1. [Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
